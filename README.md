@@ -2,4 +2,4 @@
 
 Guest Book Web App
 
-Technology used: python django framework, sqlite3 database, bootstrap, css3, html5
+Technology used: Python Django Framework, SQLite3 Database, Bootstrap, CSS3, HTML5
